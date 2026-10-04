@@ -1,0 +1,204 @@
+{
+  "version": "1.0",
+  "exportedAt": "2026-10-04T06:48:39.077Z",
+  "sentences": [
+    {
+      "id": "s179109445229970jl",
+      "start": 0,
+      "end": 6,
+      "fr": "Martin Matin, tous les matins en te levant. ",
+      "zh": "马丁·马丁，每天早上起床时。 ",
+      "ipa": "",
+      "speak": "Martin Matin, tous les matins en te levant. "
+    },
+    {
+      "id": "s1791044370550a0wl",
+      "start": 6,
+      "end": 11,
+      "fr": "Martin Matin, tu te demandes ce qui t'attend. ",
+      "zh": "马丁·马丁，你想知道等待你的是什么。",
+      "ipa": "",
+      "speak": "Martin Matin, tu te demandes ce qui t'attend. "
+    },
+    {
+      "id": "s1791044370550y1o4",
+      "start": 13,
+      "end": 15,
+      "fr": "Une queue, des ailes de dragon, de Dragon. ",
+      "zh": " 一条尾巴，龙的翅膀。",
+      "ipa": "",
+      "speak": "Une queue, des ailes de dragon, de Dragon. "
+    },
+    {
+      "id": "s1791044370550734a",
+      "start": 15,
+      "end": 19,
+      "fr": "Sorcière, homme de Cro-Magnon. Cro-Magnon. ",
+      "zh": "龙、女巫、克罗马农人。克罗马农人。",
+      "ipa": "",
+      "speak": "Sorcière, homme de Cro-Magnon. Cro-Magnon. "
+    },
+    {
+      "id": "s1791044370550tzd6",
+      "start": 19,
+      "end": 22,
+      "fr": "Gromo. Oui, c'est ton plus grand fan. ",
+      "zh": "格罗。对，这是你的头号粉丝。",
+      "ipa": "",
+      "speak": "Gromo. Oui, c'est ton plus grand fan. "
+    },
+    {
+      "id": "s1791044370550jd8h",
+      "start": 22,
+      "end": 27,
+      "fr": "On va bien rigoler. Ton amoureuse c'est Roxane. ",
+      "zh": "我们会好好笑的。你的恋人叫 Roxane。",
+      "ipa": "",
+      "speak": "On va bien rigoler. Ton amoureuse c'est Roxane. "
+    },
+    {
+      "id": "s1791044370550y5uu",
+      "start": 27,
+      "end": 33,
+      "fr": "Ça te va bien d'être un dragon. Martin, Martin, Martin, agent secret ou Dracula. ",
+      "zh": " 你变成龙挺合适的。马丁，马丁，马丁，秘密特工或德古拉。",
+      "ipa": "",
+      "speak": "Ça te va bien d'être un dragon. Martin, Martin, Martin, agent secret ou Dracula. "
+    },
+    {
+      "id": "s17910443705508mhw",
+      "start": 33,
+      "end": 37,
+      "fr": "Martin, Martin Matin, les aventures ne manquent pas. ",
+      "zh": "马丁，马丁·马丁，冒险从不缺少。",
+      "ipa": "",
+      "speak": "Martin, Martin Matin, les aventures ne manquent pas. "
+    },
+    {
+      "id": "s17910443705501pyx",
+      "start": 37,
+      "end": 42,
+      "fr": "Martin, Martin Matin, en classe, bien à la récré. ",
+      "zh": "马丁，马丁，马丁，在课堂上，也在课间。",
+      "ipa": "",
+      "speak": "Martin, Martin Matin, en classe, bien à la récré. "
+    },
+    {
+      "id": "s1791044370550bts2",
+      "start": 42,
+      "end": 48,
+      "fr": "Martin, Martin  Matin, avec toi on ne s'ennuie jamais. Ça n'arrive qu'à Moi. ",
+      "zh": "马丁，马丁，马丁，和你在一起从不无聊。这种事只发生在我身上。",
+      "ipa": "",
+      "speak": "Martin, Martin  Matin, avec toi on ne s'ennuie jamais. Ça n'arrive qu'à Moi. "
+    },
+    {
+      "id": "s1791044370551228y",
+      "start": 63,
+      "end": 70,
+      "fr": "Mais ma parole, pas possible. Aujourd'hui, je suis une fille. ",
+      "zh": " 天哪，真不敢相信。今天，我变成了女孩。",
+      "ipa": "",
+      "speak": "Mais ma parole, pas possible. Aujourd'hui, je suis une fille. "
+    },
+    {
+      "id": "s1791044370551k6dr",
+      "start": 70,
+      "end": 76,
+      "fr": "Oh ben ça c'est la meilleure, une fille. Mince alors. Qu'est-ce que va dire Roxanne ? ",
+      "zh": "哦，这真是最离谱的，一个女孩。哎呀。Roxanne会怎么说？",
+      "ipa": "",
+      "speak": "Oh ben ça c'est la meilleure, une fille. Mince alors. Qu'est-ce que va dire Roxanne ? "
+    },
+    {
+      "id": "s1791044370551ypxv",
+      "start": 76,
+      "end": 80,
+      "fr": "Martin, ton petit-déjeuner est prêt. J'arrive maman, j'arrive. ",
+      "zh": "马丁，你早餐好了。我来了妈妈，我来了。",
+      "ipa": "",
+      "speak": "Martin, ton petit-déjeuner est prêt. J'arrive maman, j'arrive. "
+    },
+    {
+      "id": "s1791044370551ogfj",
+      "start": 85,
+      "end": 86,
+      "fr": "Ben quoi ? ",
+      "zh": "怎么了？",
+      "ipa": "",
+      "speak": "Ben quoi ? "
+    },
+    {
+      "id": "s1791044370551ocm2",
+      "start": 86,
+      "end": 90,
+      "fr": "Oh rien, ça nous change des autres matins. Voilà tout, n'est-ce pas Justin ? ",
+      "zh": "哦没什么，这让我们和别的早晨不一样。就这样，对吧 Justin？",
+      "ipa": "",
+      "speak": "Oh rien, ça nous change des autres matins. Voilà tout, n'est-ce pas Justin ? "
+    },
+    {
+      "id": "s17910443705512im5",
+      "start": 90,
+      "end": 93,
+      "fr": "Ben si, ça change, pas certain que ce soit en bien. ",
+      "zh": "嗯，确实变了，但不确定是好事。",
+      "ipa": "",
+      "speak": "Ben si, ça change, pas certain que ce soit en bien. "
+    },
+    {
+      "id": "s17910443705511dcv",
+      "start": 95,
+      "end": 100,
+      "fr": "Surtout Martin, fais bien attention à ta jupe en t'asseyant parce qu'avec ce tissu ça fait des plis. ",
+      "zh": "尤其马丁，坐下时小心你的裙子，因为这种布料会起褶。",
+      "ipa": "",
+      "speak": "Surtout Martin, fais bien attention à ta jupe en t'asseyant parce qu'avec ce tissu ça fait des plis. "
+    },
+    {
+      "id": "s1791044370551x2dy",
+      "start": 103,
+      "end": 106,
+      "fr": "Gromo, avant de te retourner, promets-moi de ne pas rire. ",
+      "zh": "格罗，转身之前，答应我别笑。",
+      "ipa": "",
+      "speak": "Gromo, avant de te retourner, promets-moi de ne pas rire. "
+    },
+    {
+      "id": "s1791096297413vpxd",
+      "start": 106,
+      "end": 108,
+      "fr": "C'est juré Martin, tu me connais ? Je",
+      "zh": "我发誓，马丁，你了解我？我……",
+      "ipa": "",
+      "speak": "C'est juré Martin, tu me connais ? Je"
+    },
+    {
+      "id": "s17910963413281obx",
+      "start": 115,
+      "end": 117,
+      "fr": "Martin, attends-moi. ",
+      "zh": "马丁，等等我。",
+      "ipa": "",
+      "speak": "Martin, attends-moi. "
+    },
+    {
+      "id": "s1791096383577spm4",
+      "start": 117,
+      "end": 123,
+      "fr": "Écoute, excuse-moi vieux, je sais pas ce qui m'a pris parce que tu es plutôt une fille super top, tu sais. ",
+      "zh": "听着，对不起老兄，我不知道我怎么了，因为你其实是个超棒的女孩，你知道。",
+      "ipa": "",
+      "speak": "Écoute, excuse-moi vieux, je sais pas ce qui m'a pris parce que tu es plutôt une fille super top, tu sais. "
+    },
+    {
+      "id": "s179109642166008ud",
+      "start": 123,
+      "end": 126,
+      "fr": "Sûr qu'une nana comme toi, il y en a pas de. ",
+      "zh": "肯定没有第二个像你这样的。",
+      "ipa": "",
+      "speak": "Sûr qu'une nana comme toi, il y en a pas de. "
+    }
+  ]
+}
